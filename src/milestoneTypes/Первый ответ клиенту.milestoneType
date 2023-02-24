@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MilestoneType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Установка не повторяющейся контрольной точки для времени, используемого агентами для отправки первого ответа клиентам.</description>
+    <recurrenceType>none</recurrenceType>
+</MilestoneType>
