@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Поддержка по телефону</fullName>
+        <default>true</default>
+        <label>Поддержка по телефону</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Веб-поддержка</fullName>
+        <default>false</default>
+        <label>Веб-поддержка</label>
+    </standardValue>
+</StandardValueSet>

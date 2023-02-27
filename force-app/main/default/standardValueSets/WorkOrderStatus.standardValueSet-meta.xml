@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <groupingStringEnum>WorkStatusCategory</groupingStringEnum>
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Новое</fullName>
+        <default>true</default>
+        <label>Новое</label>
+        <groupingString>New</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Выполняется</fullName>
+        <default>false</default>
+        <label>Выполняется</label>
+        <groupingString>InProgress</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Удержание</fullName>
+        <default>false</default>
+        <label>Удержание</label>
+        <groupingString>OnHold</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Завершено</fullName>
+        <default>false</default>
+        <label>Завершено</label>
+        <groupingString>Completed</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Закрыто</fullName>
+        <default>false</default>
+        <label>Закрыто</label>
+        <groupingString>Closed</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Не удается завершить</fullName>
+        <default>false</default>
+        <label>Не удается завершить</label>
+        <groupingString>CannotComplete</groupingString>
+    </standardValue>
+    <standardValue>
+        <fullName>Отменено</fullName>
+        <default>false</default>
+        <label>Отменено</label>
+        <groupingString>Canceled</groupingString>
+    </standardValue>
+</StandardValueSet>
