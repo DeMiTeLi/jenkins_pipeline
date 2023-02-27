@@ -3,7 +3,5 @@
  */
 
 public with sharing class Demo {
-    Account.AnnualRevenue.sd
-    sd
 
 }
